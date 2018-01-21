@@ -1,0 +1,7 @@
+#totalDiv {width: 60rem; height: 50rem; margin-left: auto; margin-right: auto; border: 1px solid; background-color: lightblue;}
+#title {text-align: center;}
+#leftDiv {width: 33%; height: 45rem; float: left; border-right: dotted; }
+#rightDiv {width: 66%; height: 45rem; float: right;}
+#content {margin-left: 2rem; margin-right: 2rem;}
+.links {margin-left: 3rem;}
+
